@@ -45,8 +45,9 @@ Enter your URL: https://example.com
 Enter the crawl depth: 2  
 Enter the number of worker threads: 5  
 ```
+---
 
-📸 Sample Output
+## 📸 Sample Output
 ```
 Thread-1: https://example.com
 [https://example.com/about]
@@ -54,8 +55,8 @@ Thread-2: https://example.com/about
 ...
 Time taken: 350ms
 ```
-
-📚 Learning Outcomes
+---
+## 📚 Learning Outcomes
 
 - Gained deep understanding of Java concurrency and synchronization
 
